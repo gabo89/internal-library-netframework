@@ -1,6 +1,0 @@
-C:\gabo\gabo-dependency\mydependency\bin\Debug\mydependency.dll
-C:\gabo\gabo-dependency\mydependency\bin\Debug\mydependency.pdb
-C:\gabo\gabo-dependency\mydependency\obj\Debug\mydependency.csproj.AssemblyReference.cache
-C:\gabo\gabo-dependency\mydependency\obj\Debug\mydependency.csproj.CoreCompileInputs.cache
-C:\gabo\gabo-dependency\mydependency\obj\Debug\mydependency.dll
-C:\gabo\gabo-dependency\mydependency\obj\Debug\mydependency.pdb
