@@ -1,0 +1,2 @@
+c:\nuget.exe pack
+#https://learn.microsoft.com/en-us/nuget/resources/check-project-format
