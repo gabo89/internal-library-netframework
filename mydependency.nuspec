@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>mydependency</id>
+    <version>2.0.0</version>
+    <title>mydependency</title>
+    <authors>G.C.C</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/gabo89/internal-library-netframework</projectUrl>
+    <description>a sample library to test dependencies</description>
+    <copyright>2023</copyright>
+  </metadata>
+</package>

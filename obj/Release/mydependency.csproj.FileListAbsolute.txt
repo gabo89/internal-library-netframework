@@ -4,3 +4,9 @@ C:\gabo\gabo-dependency\mydependency\obj\Release\mydependency.csproj.AssemblyRef
 C:\gabo\gabo-dependency\mydependency\obj\Release\mydependency.csproj.CoreCompileInputs.cache
 C:\gabo\gabo-dependency\mydependency\obj\Release\mydependency.dll
 C:\gabo\gabo-dependency\mydependency\obj\Release\mydependency.pdb
+C:\gabo\asp library dependency\bin\Release\mydependency.dll
+C:\gabo\asp library dependency\bin\Release\mydependency.pdb
+C:\gabo\asp library dependency\obj\Release\mydependency.csproj.AssemblyReference.cache
+C:\gabo\asp library dependency\obj\Release\mydependency.csproj.CoreCompileInputs.cache
+C:\gabo\asp library dependency\obj\Release\mydependency.dll
+C:\gabo\asp library dependency\obj\Release\mydependency.pdb
