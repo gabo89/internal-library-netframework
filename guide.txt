@@ -1,2 +1,3 @@
 c:\nuget.exe pack
+c:\nuget.exe push .\mydependency.1.0.0.nupkg -Source "github"
 #https://learn.microsoft.com/en-us/nuget/resources/check-project-format

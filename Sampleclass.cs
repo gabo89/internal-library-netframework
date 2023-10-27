@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace mydependency
 {
-    public static class Class1
+    public static class Sampleclass
     {
         public static bool StartsWithUpper(this string str)
         {
